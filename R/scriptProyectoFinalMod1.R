@@ -160,7 +160,8 @@ pheatmap(
   cluster_cols = TRUE,
   show_rownames = TRUE,
   show_colnames = FALSE,
-  annotation_col = df
+  annotation_col = df,
+  fontsize_row=4
 )
 
 
